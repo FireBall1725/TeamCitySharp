@@ -65,6 +65,8 @@
     <Compile Include="ActionTypes\IVcsRoots.cs" />
     <Compile Include="ActionTypes\Projects.cs" />
     <Compile Include="ActionTypes\ServerInformation.cs" />
+    <Compile Include="DomainEntities\ArtifactFile.cs" />
+    <Compile Include="DomainEntities\ArtifactWrapper.cs" />
     <Compile Include="TeamCityClient.cs" />
     <Compile Include="ActionTypes\Users.cs" />
     <Compile Include="ActionTypes\VcsRoots.cs" />

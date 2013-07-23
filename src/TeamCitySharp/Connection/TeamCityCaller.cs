@@ -247,7 +247,7 @@ namespace TeamCitySharp.Connection
                 httpClient.Request.SetBasicAuthentication(userName, password);
                 httpClient.Request.ForceBasicAuth = true;
             }
-
+            
             return httpClient;
         }
 
